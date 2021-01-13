@@ -12,3 +12,4 @@ Content Based Suggestion System Introduction
 KNN
 - K-Nearest Neighbors is a machine learning technique and algorithm that can be used for both regression and classification tasks. K-Nearest Neighbors examine the labels of a selected number of data points surrounding a target data point to make a guess about the class to which the data point belongs. K-Nearest Neighbors (KNN) is conceptually a simple but very powerful algorithm and for these reasons it is one of the most popular learning algorithms.
 
+![alt text](https://www.soundonsound.com/reviews/neumann-ndh-20)
