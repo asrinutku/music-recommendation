@@ -18,8 +18,8 @@ Item based music recommender with KNN algorithm .
 ![Neumann_NDH20_01-OQ9sM5Leg5fu_WRAyyB6lRfIUzyAzwvX](https://user-images.githubusercontent.com/57988026/104448871-c86a1d00-55ae-11eb-8898-f0d417988f61.jpg)
 
 **KNN FOR RECOMMENDATION**
-To give a new recommendation to a user, the idea of ​​the content-based referral method is to find items similar to those the user has already interacted with "positively". The two items are considered to be similar if most of the users interacting with the two did it similarly. This method is said to be "content-centered" as it represents items based on users' interactions with them and evaluates the distances between these items.
+- To give a new recommendation to a user, the idea of ​​the content-based referral method is to find items similar to those the user has already interacted with "positively". The two items are considered to be similar if most of the users interacting with the two did it similarly. This method is said to be "content-centered" as it represents items based on users' interactions with them and evaluates the distances between these items.
 
-Suppose we want to make a suggestion for a specific user. First, we take the content that this user likes best and represent it with each user interaction vector (the "column in the interaction matrix). Then, we can calculate the similarities between the" best content "and all the other products. We can also keep the selected "best content" new to and recommend this content.
+- Suppose we want to make a suggestion for a specific user. First, we take the content that this user likes best and represent it with each user interaction vector (the "column in the interaction matrix). Then, we can calculate the similarities between the" best content "and all the other products. We can also keep the selected "best content" new to and recommend this content.
 
 
