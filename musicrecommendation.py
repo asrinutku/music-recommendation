@@ -221,9 +221,9 @@ distances, indices = model_knn.kneighbors(((ulke_verisi_matrix.iloc[aranan_index
 
 for i in range(0, len(distances.flatten())):
     if i == 0:
-        print("Aradıgınız sarkı ",(matrix_binary.index[aranan_index])," icin oneriler:\n")
+        print("Aradıgınız sarkı ",(model_nn_binary.index[aranan_index])," icin oneriler:\n")
     else:
-        print(i,":",matrix_binary.index[indices.flatten()[i]], "--", distances.flatten()[i], "benzerlik oranı ile")
+        print(i,":",model_nn_binary.index[indices.flatten()[i]], "--", distances.flatten()[i], "benzerlik oranı ile")
 
         
 #%%
