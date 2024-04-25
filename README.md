@@ -9,9 +9,6 @@ Item based music recommender with KNN algorithm .
 **Content Based Suggestion System Introduction**
 - It is basically classified as a growth and continuation of information filtering research. In this system, objects are mainly defined by their associated properties. A contextual suggestive learns a profile of the new user's interests based on the properties found in the objects the user has rated. It's basically a keyword specific recommendation system where keywords are used to describe items. Thus, the algorithms used in a content-based recommendation system are such that they suggest similar items to users that they have liked in the past or are currently viewing.
 
-![Ekran Alıntısı](https://user-images.githubusercontent.com/57988026/104449340-842b4c80-55af-11eb-85fa-cb01e9e52aba.PNG)
-
-
 **KNN**
 - K-Nearest Neighbors is a machine learning technique and algorithm that can be used for both regression and classification tasks. K-Nearest Neighbors examine the labels of a selected number of data points surrounding a target data point to make a guess about the class to which the data point belongs. K-Nearest Neighbors (KNN) is conceptually a simple but very powerful algorithm and for these reasons it is one of the most popular learning algorithms.
 
